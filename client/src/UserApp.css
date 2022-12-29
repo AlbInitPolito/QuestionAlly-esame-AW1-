@@ -1,0 +1,44 @@
+.list-group-item {
+    color: black;
+    font-size: 16px;
+}
+
+.list-group-item:hover {
+    color: black;
+    text-decoration: none;
+}
+
+.list-group-item:hover {
+    background-color: lightgrey;
+}
+
+.questauthor {
+    text-align: right;
+}
+
+.hometitle {
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.homelist {
+    margin-top: 20px;
+}
+
+.surveyform{
+    margin-top:20px;
+}
+
+.surveytop{
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.comptitle{
+    margin-left: 20px;
+}
+
+.mandalert{
+    text-align: left !important;
+    color: red;
+}

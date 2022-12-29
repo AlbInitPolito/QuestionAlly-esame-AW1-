@@ -1,0 +1,26 @@
+.form-check-label{
+    color:black !important;
+}
+
+.btn-circle {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+
+.comptitle{
+    margin-left: 20px;
+}
+
+.btn-end{
+    height: 50px;
+    position: relative;
+    float: right;
+    margin-top: 20px;
+}
+
+.surveyalert{
+    margin-top: 20px;
+}
